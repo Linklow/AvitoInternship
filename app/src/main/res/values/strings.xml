@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AvitoInternship</string>
+    <string name="app_title">Weather App</string>
+    <string name="description">Type the city and tap &quot;See&quot; to see the weather in this city.
+        \nOr tap &quot;See Your City&quot; to get weather in your geolocation.</string>
+    <string name="hint_for_input">Write the city</string>
+    <string name="btn_for_input_city">See</string>
+    <string name="btn_for_current_city">See Your City</string>
+    <string name="btn_for_city">See</string>
+
+</resources>
